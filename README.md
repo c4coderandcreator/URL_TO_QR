@@ -1,5 +1,5 @@
 # URL_TO_QR
-Generate a QR by Prompting a URL
+Generate a QR by Prompting an URL
 
 # Installation Guide
 - Clone the Repo to your local machine
