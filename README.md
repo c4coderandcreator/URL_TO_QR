@@ -4,7 +4,7 @@ Generate a QR by Prompting a URL
 # Installation Guide
 - Clone the Repo to your local machine
 - Open the terminal in your code editor (VScode)
-- Type 
+- Type the below commands in terminal 
    1. CD URL_TO_QR press enter
    2. npm install press enter
    3. node index.js press enter
